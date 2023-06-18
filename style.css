@@ -1,0 +1,42 @@
+.choiceBtn1 {
+    line-height: 30px;
+    width: 150px;
+    margin-bottom: 10px;
+  }
+  #display-choicebtn2 {
+    position: absolute;
+    top: 239px;
+    left: 453px;
+    display: none;
+  }
+  .choiceBtn2 {
+    line-height: 30px;
+    width: 150px;
+  }
+  #gameDiv {
+    height: 290px;
+    font-family: cursive;
+    border: 3px solid;
+    border-radius: 25px;
+    padding: 10px;
+    background-color: lightgrey;
+    text-align: center;
+  }
+  #player1Text {
+    color: blue;
+  }
+  #player2Text {
+    color: red;
+  }
+  #newGame {
+    font-size: 20px;
+    font-family: cursive;
+    margin-top: 10px;
+    padding: 10px;
+    height: 50px;
+    line-height: 20px;
+    width: 230px;
+    position: fixed;
+    left: 550px;
+    top: 290px;
+  }
